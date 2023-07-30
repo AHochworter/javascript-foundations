@@ -1,9 +1,7 @@
-
-
 module.exports = {
-  // createVampire, 
-  // drink, 
-  // findBatLovers, 
-  // encounterDeliciousVictim, 
-  // inquirePlace
-}
+  createVampire,
+  // drink,
+  // encounterDeliciousVictim,
+  // findBatLovers,
+  // inquirePlace,
+};
